@@ -24,8 +24,3 @@ public class Chambre implements Serializable {
 // Constructeur et accesseurs (getters) et mutateurs (setters)
 }
 
-enum TypeChambre {
-    SIMPLE,
-    DOUBLE,
-    TRIPLE
-}
